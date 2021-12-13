@@ -1,5 +1,5 @@
-# Tesis-Baeza-Rubilar
-Base de datos de memoria de título "Sindemia en Chile: Sindemia por COVID-19"  
+# Bases de datos de memoria de título "Sindemia en Chile: Sindemia por COVID-19"  
+
 _Por Cristian Baeza T y Florencia Rubilar M_  
 ____
 Las bases de datos fueron elaboradas procesando datos obtenidos del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación y del Dashboard COVID-19 de la WHO. 
