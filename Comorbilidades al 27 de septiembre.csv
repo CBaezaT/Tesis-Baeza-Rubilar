@@ -1,0 +1,23 @@
+comorbilidad,hospitalizados,n
+Hipertensión arterial,no,361782
+Diabetes,no,334534
+Obesidad,no,299562
+Asma,no,305114
+Enfermedad cardiovascular,no,190026
+Enfermedad pulmonar crónica,no,186792
+Cardiopatía crónica,no,172201
+Enfermedad renal crónica,no,149543
+Enfermedad neurológica crónica,no,114240
+Inmunocomprometido,no,142395
+Enfermedad hepática crónica,no,23039
+Hipertensión arterial,si,311565
+Diabetes,si,283594
+Obesidad,si,197109
+Asma,si,126744
+Enfermedad cardiovascular,si,132300
+Enfermedad pulmonar crónica,si,153012
+Cardiopatía crónica,si,132832
+Enfermedad renal crónica,si,144610
+Enfermedad neurológica crónica,si,83222
+Inmunocomprometido,si,82685
+Enfermedad hepática crónica,si,33891
